@@ -1,0 +1,29 @@
+{
+  "application_number": 1096,
+  "address": "Created new multisig:  f02943486 f2lrh4szv7ymlmit7qprpk6re2cpksgjgcdth5f3a",
+  "name": "FF Social Impact",
+  "organization": "Filecoin Foundation (FF)",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "Created new multisig:  f02943486 f2lrh4szv7ymlmit7qprpk6re2cpksgjgcdth5f3a",
+  "application": {
+    "allocations": {},
+    "tooling": [],
+    "12m_requested": 10,
+    "github_handles": [
+      "dannyob (Danny), SeedingTrees (Hunter), ianconsolata (Ian), Sankara-Jefferson (Sankara)"
+    ],
+    "allocation_bookkeeping": "https://github.com/CloudX-Lab/filecion"
+  },
+  "poc": {
+    "slack": "CloudX Lab",
+    "github_user": "CloudX-Lab"
+  },
+  "pathway_addresses": {
+    "msig": "f2o2obeorcnu4zp6zbs6i2pxkzqppxyxommqpsefi",
+    "signer": [
+      "f1mkrrydd5xdjgtpnlsljkmdy5w3tphzz3orb32di"
+    ]
+  }
+}

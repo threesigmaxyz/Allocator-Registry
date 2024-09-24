@@ -1,0 +1,38 @@
+{
+  "application_number": "1337",
+  "name": "ABC",
+  "organization": "ABC Inc",
+  "location": [
+    "Africa",
+    "Asia minus GCR"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "application": {
+    "allocations": {
+      "standardized": [
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Commercial/Enterprise",
+      "Open/Public"
+    ],
+    "required_sps": "4+",
+    "required_replicas": 2,
+    "tooling": [],
+    "data_types": [
+      "Private encrypted with on-chain deal pricing"
+    ],
+    "github_handles": [
+      "martapiekarska"
+    ]
+  },
+  "poc": {
+    "github_user": "martapiekarska"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "application_number": "1337",
+  "name": "Frogs",
+  "organization": "Are Fun",
+  "location": [
+    "Africa",
+    "Asia minus GCR",
+    "Europe"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "application": {
+    "allocations": {
+      "standardized": [
+        122
+      ]
+    },
+    "target_clients": [
+      "Other",
+      "Nonprofit organizations"
+    ],
+    "required_sps": "2+",
+    "required_replicas": 2,
+    "tooling": [],
+    "data_types": [
+      "Public, open, and retrievable"
+    ],
+    "github_handles": [
+      "martapiekarska"
+    ]
+  },
+  "poc": {
+    "github_user": "martapiekarska"
+  }
+}

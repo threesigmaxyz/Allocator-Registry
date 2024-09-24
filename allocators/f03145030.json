@@ -1,0 +1,47 @@
+{
+  "application_number": "1337",
+  "address": "f27phmomhp46zazd6mfnq425unikzuxcnk57aa4da",
+  "name": "CineVault Allocator",
+  "organization": "CineVault",
+  "location": [
+    "Africa",
+    "Asia minus GCR",
+    "Europe",
+    "Greater China Region",
+    "North America",
+    "Oceania",
+    "South America"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f27phmomhp46zazd6mfnq425unikzuxcnk57aa4da",
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Commercial/Enterprise",
+      "Open/Public",
+      "Nonprofit organizations",
+      "Web3 developers",
+      "Individuals"
+    ],
+    "required_sps": "4+",
+    "required_replicas": 4,
+    "tooling": [],
+    "data_types": [
+      "Public, open, and retrievable",
+      "Proof of concept, network utilities"
+    ],
+    "github_handles": [
+      "himomo007"
+    ]
+  },
+  "poc": {
+    "github_user": "himomo007"
+  },
+  "pathway_addresses": {
+    "msig": "f27phmomhp46zazd6mfnq425unikzuxcnk57aa4da",
+    "signer": []
+  }
+}

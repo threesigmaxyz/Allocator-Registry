@@ -1,0 +1,46 @@
+{
+  "application_number": "1337",
+  "address": "f2tx6shsuxpfnm4nertcxjt3dxzkfz3bxckbrfg2y",
+  "name": "CMay_AutomatedAllocator",
+  "organization": "CMay",
+  "location": [
+    "Africa",
+    "Asia minus GCR",
+    "Europe",
+    "Greater China Region",
+    "North America"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f2tx6shsuxpfnm4nertcxjt3dxzkfz3bxckbrfg2y",
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Nonprofit organizations",
+      "Individuals",
+      "Open/Public",
+      "Commercial/Enterprise"
+    ],
+    "required_sps": "3+",
+    "required_replicas": 4,
+    "tooling": [],
+    "data_types": [
+      "Private encrypted with on-chain deal pricing",
+      "Public, open, and retrievable",
+      "Proof of concept, network utilities"
+    ],
+    "github_handles": [
+      "PonnyWang4"
+    ]
+  },
+  "poc": {
+    "github_user": "PonnyWang4"
+  },
+  "pathway_addresses": {
+    "msig": "f2tx6shsuxpfnm4nertcxjt3dxzkfz3bxckbrfg2y",
+    "signer": []
+  }
+}

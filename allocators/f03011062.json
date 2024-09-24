@@ -1,0 +1,48 @@
+{
+  "application_number": "1337",
+  "address": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+  "name": "future-storage",
+  "organization": "origin storage",
+  "location": [
+    "Africa",
+    "Asia minus GCR",
+    "Europe",
+    "Greater China Region",
+    "North America",
+    "Oceania",
+    "South America"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Nonprofit organizations",
+      "Commercial/Enterprise",
+      "Individuals",
+      "Open/Public"
+    ],
+    "required_sps": "5+",
+    "required_replicas": 5,
+    "tooling": [],
+    "data_types": [
+      "Private encrypted with on-chain deal pricing",
+      "Public, open, and retrievable",
+      "Proof of concept, network utilities"
+    ],
+    "github_handles": [
+      "chainupk"
+    ]
+  },
+  "poc": {
+    "github_user": "chainupk"
+  },
+  "pathway_addresses": {
+    "msig": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+    "signer": []
+  }
+}

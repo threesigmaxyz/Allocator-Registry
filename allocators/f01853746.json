@@ -1,0 +1,33 @@
+{
+  "application_number": "1337",
+  "address": "f1sd72ruu5m7n5ynp5ft2hp4e2xxupqfu4n3deo5y",
+  "name": "ABC",
+  "organization": "ABC Inc",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1sd72ruu5m7n5ynp5ft2hp4e2xxupqfu4n3deo5y",
+  "application": {
+    "allocations": {
+      "standardized": false
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Commercial/Enterprise",
+      "Open/Public"
+    ],
+    "required_sps": [
+      "4+"
+    ],
+    "required_replicas": 2,
+    "tooling": [],
+    "data_types": [
+      "Private encrypted with on-chain deal pricing"
+    ],
+    "github_handles": [
+      "martapiekarska"
+    ]
+  },
+  "poc": {
+    "github_user": "martapiekarska"
+  }
+}

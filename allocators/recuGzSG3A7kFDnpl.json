@@ -1,0 +1,49 @@
+{
+  "application_number": 1337,
+  "address": "f2k5ch5vuaig7js26a7o4usoadriaq5skgvb7q5wa",
+  "name": "Allocator-Rivtower",
+  "organization": "Rivtower",
+  "location": [
+    "Asia minus GCR",
+    "Greater China Region",
+    "North America"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    "f2k5ch5vuaig7js26a7o4usoadriaq5skgvb7q5wa",
+    "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea"
+  ],
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Commercial/Enterprise",
+      "Open/Public",
+      "Other",
+      "Individuals"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "data_types": [
+      "Private encrypted with on-chain deal pricing",
+      "Public, open, and retrievable"
+    ],
+    "github_handles": [
+      "Rivtower-work"
+    ],
+    "allocation_bookkeeping": "https://github.com/Rivtower-work/Allocator-Rivtower"
+  },
+  "poc": {
+    "slack": "Rivtower",
+    "github_user": "Rivtower-work"
+  },
+  "pathway_addresses": {
+    "msig": "f2k5ch5vuaig7js26a7o4usoadriaq5skgvb7q5wa",
+    "signer": [
+      "s1",
+      "s2"
+    ]
+  }
+}

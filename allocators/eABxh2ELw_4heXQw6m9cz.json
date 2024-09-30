@@ -1,0 +1,51 @@
+{
+  "application_number": 1337,
+  "address": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy ",
+  "name": "SDMR",
+  "organization": "Shenyang Dongya Medical Research Institute Co.",
+  "location": [
+    "Asia minus GCR",
+    "Europe",
+    "Greater China Region",
+    "North America",
+    "South America",
+    "Oceania"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy ",
+    "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy"
+  ],
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Nonprofit organizations",
+      "Commercial/Enterprise",
+      "Individuals",
+      "Open/Public"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "3+",
+    "data_types": [
+      "Private encrypted with on-chain deal pricing",
+      "Public, open, and retrievable",
+      "Proof of concept, network utilities"
+    ],
+    "github_handles": [
+      "Hunter3576"
+    ],
+    "allocation_bookkeeping": "https://github.com/Hunter3576/SDMR"
+  },
+  "poc": {
+    "slack": "U05LPA27T8V",
+    "github_user": "Hunter3576"
+  },
+  "pathway_addresses": {
+    "msig": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy ",
+    "signer": []
+  }
+}

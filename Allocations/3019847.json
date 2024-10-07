@@ -1,0 +1,16 @@
+[
+  {
+    "verifierId": 3019847,
+    "clientAddress": "f1tjlxww42udm6sapwprmiue62lwwuknfsgorgugi",
+    "clientAllowance": "1013309916158361",
+    "msgCid": "bafy2bzaceaommf5k54dgoqc6hygjsi63kevrbdmf3dp6qb7ezwtd4qsukivvu",
+    "height": 4333107
+  },
+  {
+    "verifierId": 3019847,
+    "clientAddress": "f1tjlxww42udm6sapwprmiue62lwwuknfsgorgugi",
+    "clientAllowance": "9191917208207",
+    "msgCid": "bafy2bzacebpkw6p7tyaao4ktgl3ibiadllqf7ck4re4wm7wxmfawr33lddmok",
+    "height": 4333120
+  }
+]

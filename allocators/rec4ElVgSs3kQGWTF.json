@@ -14,7 +14,7 @@
   ],
   "application": {
     "allocations": {
-      "standardized": []
+      "standardized": ["42"]
     },
     "target_clients": [
       "Web3 developers",

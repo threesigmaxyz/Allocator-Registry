@@ -1,0 +1,48 @@
+{
+  "application_number": 1337,
+  "address": "0x1234567890abcdef",
+  "name": "John Doe",
+  "organization": "Doe Inc.",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    "0x1234567890abcdef",
+    "0xabcdef1234567890"
+  ],
+  "application": {
+    "allocations": {
+      "standardized": [
+        100,
+        200,
+        300,
+        400
+      ]
+    },
+    "target_clients": [
+      "Client1",
+      "Client2"
+    ],
+    "required_sps": "10",
+    "required_replicas": "3",
+    "data_types": [
+      "TypeA",
+      "TypeB"
+    ],
+    "github_handles": [
+      "john-doe-gh"
+    ],
+    "allocation_bookkeeping": "https://github.com/john-doe/bookkeeping"
+  },
+  "poc": {
+    "slack": "@john-doe",
+    "github_user": "john-doe-gh"
+  },
+  "pathway_addresses": {
+    "msig": "0x1234567890abcdef",
+    "signer": [
+      "s1",
+      "s2"
+    ]
+  }
+}

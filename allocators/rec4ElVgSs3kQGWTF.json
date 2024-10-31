@@ -35,8 +35,8 @@
     "github_user": "asynctomatic"
   },
   "allocation_instruction": {
-    "method": [],
-    "amount": []
+    "method": ["META_ALLOCATOR"],
+    "amount": [100]
   },
   "pathway_addresses": {
     "msig": "f2rclvb7liuexvpznfwrhozwm7wlv3vjxsrfgj6oy",

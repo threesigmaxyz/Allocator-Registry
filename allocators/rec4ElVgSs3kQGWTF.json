@@ -34,7 +34,12 @@
     "slack": "asynctomatic",
     "github_user": "asynctomatic"
   },
-  "application_instructions": [],
+  "application_instructions": [
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 420
+    }
+  ],
   "pathway_addresses": {
     "msig": "0xd66684AC13a43Dd09e03d799A18C1Fbc4DF33Be9",
     "signer": [

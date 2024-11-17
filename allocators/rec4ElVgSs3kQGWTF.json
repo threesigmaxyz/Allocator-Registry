@@ -37,7 +37,7 @@
   "application_instructions": [
     {
       "method": "META_ALLOCATOR",
-      "amount": 1337,
+      "amount": 1338,
       "timestamp": 1731806359565,
       "status": "PENDING"
     }

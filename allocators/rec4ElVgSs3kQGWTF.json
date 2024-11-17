@@ -37,7 +37,9 @@
   "application_instructions": [
     {
       "method": "META_ALLOCATOR",
-      "amount": 420
+      "amount": 1337,
+      "timestamp": 1731805615106,
+      "status": "PENDING"
     }
   ],
   "pathway_addresses": {

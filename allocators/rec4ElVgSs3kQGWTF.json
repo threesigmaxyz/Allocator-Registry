@@ -42,6 +42,18 @@
       "amount": 1337,
       "timestamp": 1731927530640,
       "status": "GRANTED"
+    },
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 1337,
+      "timestamp": 1731927542518,
+      "status": "PENDING"
+    },
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 1337,
+      "timestamp": 1731927947863,
+      "status": "GRANTED"
     }
   ],
   "pathway_addresses": {

@@ -40,6 +40,10 @@
     {
       "method": "META_ALLOCATOR",
       "amount": 1338
+    },
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 2676
     }
   ],
   "pathway_addresses": {

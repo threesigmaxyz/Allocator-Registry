@@ -2,7 +2,7 @@
   "application_number": 1337,
   "address": "0xd66684AC13a43Dd09e03d799A18C1Fbc4DF33Be9",
   "name": "Three Sigma",
-  "organization": "Three Sigmas",
+  "organization": "Three Sigma",
   "location": [
     "Europe"
   ],
@@ -40,6 +40,14 @@
     {
       "method": "META_ALLOCATOR",
       "amount": 1338
+    },
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 2676
+    },
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 2676
     }
   ],
   "pathway_addresses": {

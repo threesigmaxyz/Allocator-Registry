@@ -1,0 +1,45 @@
+{
+  "application_number": 1337,
+  "address": "f2srgcxkj3zzy36t24lobqueerddnr4cqmfzq6dbq",
+  "name": "LaughStorage Allocator",
+  "organization": "LaughStorage",
+  "location": [
+    "Greater China Region"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    "f2srgcxkj3zzy36t24lobqueerddnr4cqmfzq6dbq",
+    "f1rezheyjsdejlxgssaqkvtg5buhsiubevgsbyjsa "
+  ],
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Nonprofit organizations",
+      "Commercial/Enterprise",
+      "Individuals",
+      "Open/Public"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "3+",
+    "data_types": [
+      "Private encrypted with on-chain deal pricing",
+      "Public, open, and retrievable"
+    ],
+    "github_handles": [
+      "26dos"
+    ],
+    "allocation_bookkeeping": "https://github.com/26dos/AllocatorBookkeeping"
+  },
+  "poc": {
+    "slack": "Laugh Storage",
+    "github_user": "26dos"
+  },
+  "pathway_addresses": {
+    "msig": "f2srgcxkj3zzy36t24lobqueerddnr4cqmfzq6dbq",
+    "signer": []
+  }
+}

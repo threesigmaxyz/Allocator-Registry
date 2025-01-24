@@ -1,0 +1,16 @@
+{
+  "application_number": "1337",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "application": {
+    "allocations": {
+      "standardized": false
+    },
+    "required_replicas": null,
+    "tooling": [],
+    "github_handles": [
+      null
+    ]
+  },
+  "poc": {}
+}

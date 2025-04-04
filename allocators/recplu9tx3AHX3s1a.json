@@ -1,0 +1,27 @@
+{
+  "application_number": 1337,
+  "organization": "Data Preservation Institute",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    null,
+    "f1v2…"
+  ],
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "required_sps": "1",
+    "required_replicas": "2",
+    "github_handles": [
+      null
+    ]
+  },
+  "poc": {},
+  "application_instructions": [
+    {
+      "method": "META_ALLOCATOR",
+      "datacap_amount": 1
+    }
+  ]
+}

@@ -22,11 +22,9 @@
     ],
     "required_sps": "2+",
     "required_replicas": "2+",
-    "tooling": null,
     "data_types": [
       "Public, open, and retrievable"
     ],
-    "12m_requested": null,
     "github_handles": [
       "asynctomatic"
     ],
@@ -39,11 +37,7 @@
   "application_instructions": [
     {
       "method": "META_ALLOCATOR",
-      "amount": 1338
-    },
-    {
-      "method": "META_ALLOCATOR",
-      "amount": 2676
+      "datacap_amount": 1
     }
   ],
   "pathway_addresses": {

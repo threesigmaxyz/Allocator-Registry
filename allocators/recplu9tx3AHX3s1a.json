@@ -1,0 +1,41 @@
+{
+  "application_number": 1337,
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Public Open Dataset Pathway",
+  "organization": "Data Preservation Institute",
+  "metapathway_type": "Automatic",
+  "ma_address": "TODO",
+  "associated_org_addresses": "f1v2…",
+  "application": {
+    "audit": [
+      null
+    ],
+    "distribution": [
+      null
+    ],
+    "required_sps": "1",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "asynctomatic"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {
+    "Submitted": "timestamp",
+    "In Review": "timestamp",
+    "In Refresh": "timestamp",
+    "Approved": "timestamp",
+    "Declined": "timestamp"
+  },
+  "LifeCycle": {
+    "Audit <number>": [
+      "<date>",
+      "<DC allocated>"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signer": []
+  }
+}

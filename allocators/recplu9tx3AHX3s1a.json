@@ -1,7 +1,7 @@
 {
   "application_number": 426,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
-  "name": "Public Open Dataset Pathway",
+  "name": "Public Open Dataset Pathway 2",
   "organization": "Data Preservation Institute",
   "metapathway_type": "MA",
   "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
@@ -21,7 +21,7 @@
   "LifeCycle": {
     "Audit 1": [
       "1744677569685",
-      "5"
+      "6"
     ]
   },
   "pathway_addresses": {
